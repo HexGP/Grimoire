@@ -5,7 +5,7 @@
 <h1 align="center">Grimoire</h1>
 
 <p align="center">
-  <strong>Offline desktop prompt manager: one master prompt, tailored variants for every generator.</strong>
+  <strong>Offline desktop prompt manager — one master prompt, tailored variants for every generator.</strong>
 </p>
 
 <p align="center">
@@ -43,7 +43,6 @@ Everything stays on your machine. No accounts, no cloud sync, no telemetry.
 **Prerequisites:** [Node.js](https://nodejs.org) · [Rust](https://rustup.rs) · [Tauri prerequisites](https://v2.tauri.app/start/prerequisites/)
 
 ```bash
-cd grimoire
 npm install
 npm run tauri dev
 ```
