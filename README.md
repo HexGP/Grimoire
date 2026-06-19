@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="static/grimoire.svg" width="128" alt="Grimoire logo" />
+  <img src="static/grimoire-logo.png" width="128" alt="Grimoire logo" />
 </p>
 
 <h1 align="center">Grimoire</h1>
 
 <p align="center">
-  <strong>Offline desktop prompt manager — one master prompt, tailored variants for every generator.</strong>
+  <strong>Offline desktop prompt manager: one master prompt, tailored variants for every generator.</strong>
 </p>
 
 <p align="center">
