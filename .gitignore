@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Frontend build artifacts
+/build/
+/.svelte-kit/
+/package/
+
+# Rust / Tauri build artifacts
+src-tauri/target/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+tauri-dev.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (local editor settings)
+.vscode/
+
+# AI assistant / local dev tooling (not part of the app)
+.claude/
+
+# Internal planning notes
+PLAN.md
+ARCHITECTURE.md
+
+# One-shot icon script (uses local machine paths; icons are already in src-tauri/icons)
+make-icon.mjs
+
+# Installers & binaries (build these locally with `npm run tauri build`)
+*.exe
+*.msi
+*.dmg
+*.app
